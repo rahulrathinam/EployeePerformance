@@ -9,7 +9,7 @@ npm install
 ```
 
 ### **🔹 Step 3: Configure the Database**
-- Import the provided **`database.sql`** file into MySQL.
+- Import the provided sql files from Database Folder into MySQL.
 - Update the `.env` file with your database credentials:
 
 ### **🔹 Step 4: Start the Backend Server**
